@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# System files
+*.log
+*.tmp
+AppData/
+Desktop.ini
+Thumbs.db
+.DS_Store
+cc
