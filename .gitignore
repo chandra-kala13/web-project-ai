@@ -1,3 +1,16 @@
+# Ignore system and temporary files
+*.txt
+*.log
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# OS/system folders
+AppData/
 # Node modules
 node_modules/
 
